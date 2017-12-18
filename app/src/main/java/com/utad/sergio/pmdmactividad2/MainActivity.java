@@ -6,6 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
+import com.google.firebase.database.DataSnapshot;
+
 import fragments.LoginFragment;
 import fragments.LoginFragmentListener;
 import fragments.RegisterFragment;
@@ -97,5 +99,10 @@ class MainActivityEvents implements LoginFragmentListener, RegisterFragmentListe
         } else {
 
         }
+    }
+
+    @Override
+    public void fireBaseAdmin_DownloadedBranch(String branch, DataSnapshot dataSnapshot) {
+
     }
 }

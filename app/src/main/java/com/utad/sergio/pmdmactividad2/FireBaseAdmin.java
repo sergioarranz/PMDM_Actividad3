@@ -70,7 +70,7 @@ public class FireBaseAdmin {
                 });
     }
 
-    public void GetAndObserveBranch(final String branch, Activity activity){
+    public void GetAndObserveBranch(final String branch){
         DatabaseReference refBranch=myRootRef.child(branch);
         refBranch.addValueEventListener(new ValueEventListener() {
             @Override
