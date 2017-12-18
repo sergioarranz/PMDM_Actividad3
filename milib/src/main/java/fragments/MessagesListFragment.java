@@ -30,6 +30,8 @@ public class MessagesListFragment extends Fragment {
         View v=inflater.inflate(R.layout.fragment_messages_list, container, false);
         recyclerView=v.findViewById(R.id.msgList);
         recyclerView.setLayoutManager(new GridLayoutManager(getContext(),3));
+        MessagesListAdapter messagesListAdapter = new MessagesListAdapter();
+        recyclerView.setAdapter(messagesListAdapter);
 
         return v;
     }

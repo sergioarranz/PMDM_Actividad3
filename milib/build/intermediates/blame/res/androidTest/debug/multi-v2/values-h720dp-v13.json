@@ -44,6 +44,21 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "/Users/sergio/Documents/PMDM_Actividad3/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/sergio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/efa1744004b1b46e4e5dbc2a36d0ed2b/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
         }
     ]
 }
