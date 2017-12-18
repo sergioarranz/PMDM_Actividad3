@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sergio/Desktop/PMDMActividad2/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/sergio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c9493fed88bb3762c9f6ffec1d573504/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sergio/Documents/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/sergio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c9493fed88bb3762c9f6ffec1d573504/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sergio/Documents/PMDM_Actividad-2/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/sergio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/efa1744004b1b46e4e5dbc2a36d0ed2b/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
