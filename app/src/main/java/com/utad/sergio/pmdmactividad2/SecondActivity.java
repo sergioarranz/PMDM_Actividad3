@@ -1,9 +1,12 @@
 package com.utad.sergio.pmdmactividad2;
 
+import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 import com.google.firebase.database.DataSnapshot;
+import com.utad.sergio.pmdmactividad2.FBObjects.Messages;
 import com.utad.sergio.pmdmactividad2.adapters.MessagesListAdapter;
 
 import java.util.ArrayList;
@@ -23,6 +26,8 @@ public class SecondActivity extends AppCompatActivity {
         DataHolder.instance.fireBaseAdmin.setListener(events);
 
         messagesListFragment=(MessagesListFragment)getSupportFragmentManager().findFragmentById(R.id.fragmentMsgList);
+
+        DataHolder.instance.fireBaseAdmin.GetAndObserveBranch("messages");
         //Log.v("SecondActivity","------- EMAIL DEL USUARIO: --------"+DataHolder.instance.fireBaseAdmin.user.getEmail());
 
         /*ArrayList<String> mData=new ArrayList<>();
@@ -45,7 +50,9 @@ class SecondActivityEvents implements FireBaseAdminListener {
     }
     @Override
     public void fireBaseAdmin_DownloadedBranch(String branch, DataSnapshot dataSnapshot) {
-
+        Log.v("SecondActivity", branch+" ------- "+dataSnapshot);
+        Messages messages=dataSnapshot.getValue(Messages.class);
+        Log.v("SecondActivity", "OBJETO MENSAJES TIENE LOS SIGUIENTES MENSAJES: "+messages.msgs);
     }
 
     @Override

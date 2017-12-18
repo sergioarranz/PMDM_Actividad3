@@ -10,8 +10,12 @@ import com.google.firebase.database.IgnoreExtraProperties;
 public class Message {
 
     public String original;
-    
+
     public Message(){
 
+    }
+
+    public Message(String original){
+        this.original=original;
     }
 }

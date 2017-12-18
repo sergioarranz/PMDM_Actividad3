@@ -24,7 +24,7 @@ public class MessagesListAdapter extends RecyclerView.Adapter<MessagesViewHolder
     @Override
     public MessagesViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         // Inflamos XML de la Celda
-        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.msg_cell_layout,null);
+        View view = LayoutInflater.from(parent.getContext()).inflate(com.utad.sergio.pmdmactividad2.R.layout.msg_cell_layout,null);
         MessagesViewHolder messagesViewHolder = new MessagesViewHolder(view);
         return messagesViewHolder;
     }
@@ -48,6 +48,6 @@ class MessagesViewHolder extends RecyclerView.ViewHolder {
     public MessagesViewHolder(View itemView) {
 
         super(itemView);
-        txtMsg=itemView.findViewById(R.id.txtMsg);
+        txtMsg=itemView.findViewById(com.utad.sergio.pmdmactividad2.R.id.txtMsg);
     }
 }
