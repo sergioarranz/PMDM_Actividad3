@@ -4,6 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.google.firebase.database.DataSnapshot;
+import com.utad.sergio.pmdmactividad2.adapters.MessagesListAdapter;
+
+import java.util.ArrayList;
 
 import fragments.MessagesListFragment;
 
@@ -21,6 +24,15 @@ public class SecondActivity extends AppCompatActivity {
 
         messagesListFragment=(MessagesListFragment)getSupportFragmentManager().findFragmentById(R.id.fragmentMsgList);
         //Log.v("SecondActivity","------- EMAIL DEL USUARIO: --------"+DataHolder.instance.fireBaseAdmin.user.getEmail());
+
+        /*ArrayList<String> mData=new ArrayList<>();
+        mData.add("MENSAJE 1");
+        mData.add("MENSAJE 2");
+        mData.add("MENSAJE 3");
+        mData.add("MENSAJE 4");
+
+        MessagesListAdapter messagesListAdapter = new MessagesListAdapter(mData);
+        messagesListFragment.recyclerView.setAdapter(messagesListAdapter);*/
     }
 }
 

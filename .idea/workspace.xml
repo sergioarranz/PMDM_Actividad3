@@ -11,11 +11,162 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96fa22db-769a-4a6a-bbda-bf3238d04a3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/milib/src/main/java/fragments/FBObjects/Message.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/bundles/debug/res/layout/msg_cell_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-az/values-az.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-be/values-be.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-bn/values-bn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-bs/values-bs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-et/values-et.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-eu/values-eu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-gl/values-gl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-gu/values-gu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-is/values-is.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-kk/values-kk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-km/values-km.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-kn/values-kn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ky/values-ky.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-mk/values-mk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ml/values-ml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-mr/values-mr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-my/values-my.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pa/values-pa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-si/values-si.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sq/values-sq.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ta/values-ta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-te/values-te.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ur/values-ur.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-uz/values-uz.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v25/values-v25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v26/values-v26.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/res/merged/androidTest/debug/layout_msg_cell_layout.xml.flat" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/milib/src/main/java/fragments/FBObjects/Message.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FBObjects/Message.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/adapters/MessagesListAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/milib/src/main/res/layout/msg_cell_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/msg_cell_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" afterPath="$PROJECT_DIR$/milib/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FireBaseAdmin.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FireBaseAdmin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/SecondActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/SecondActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/compat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/constraint/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/constraint/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/coreui/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/coreutils/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/fragment/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/graphics/drawable/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/graphics/drawable/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/graphics/drawable/animated/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/graphics/drawable/animated/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/mediacompat/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/mediacompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/v4/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/v4/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/android/support/v7/recyclerview/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/com/utad/sergio/milib/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/com/utad/sergio/milib/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/com/utad/sergio/milib/test/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/androidTest/debug/com/utad/sergio/milib/test/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/compat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/constraint/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/constraint/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/coreui/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/coreutils/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/fragment/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/mediacompat/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/mediacompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/v4/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/v4/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/generated/source/r/debug/com/utad/sergio/milib/R.java" afterPath="$PROJECT_DIR$/milib/build/generated/source/r/debug/com/utad/sergio/milib/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/blame/res/androidTest/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/milib/build/intermediates/blame/res/androidTest/debug/multi-v2/debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/blame/res/androidTest/debug/single/debug.json" afterPath="$PROJECT_DIR$/milib/build/intermediates/blame/res/androidTest/debug/single/debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/bundles/debug/R.txt" afterPath="$PROJECT_DIR$/milib/build/intermediates/bundles/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/milib/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/milib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/milib/build/intermediates/incremental/packageDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/res/symbol-table-with-package/androidTest/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/milib/build/intermediates/res/symbol-table-with-package/androidTest/debug/package-aware-r.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/milib/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="$PROJECT_DIR$/milib/build/intermediates/symbols/androidTest/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListFragment.java" afterPath="$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListFragment.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,37 +200,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataHolder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/DataHolder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-              <folding>
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_second.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_second.xml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SecondActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/SecondActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="369">
+              <caret line="34" column="76" lean-forward="false" selection-start-line="34" selection-start-column="76" selection-end-line="34" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,10 +213,10 @@
         </entry>
       </file>
       <file leaf-file-name="Message.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/milib/src/main/java/fragments/FBObjects/Message.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FBObjects/Message.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -100,29 +225,49 @@
       <file leaf-file-name="MessagesListFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="361">
+              <caret line="48" column="31" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/milib/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="35" column="63" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="63" lean-forward="false" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MessagesListAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListAdapter.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/adapters/MessagesListAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="msg_cell_layout.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/milib/src/main/res/layout/msg_cell_layout.xml">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/msg_cell_layout.xml">
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2755,17 +2900,19 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/milib/src/main/java/fragments/RegisterFragmentListener.java" />
         <option value="$PROJECT_DIR$/milib/src/main/java/fragments/RegisterFragment.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/DataHolder.java" />
         <option value="$PROJECT_DIR$/milib/src/main/res/layout/fragment_messages_list.xml" />
         <option value="$PROJECT_DIR$/milib/src/main/res/layout/msg_cell_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_second.xml" />
         <option value="$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListAdapter.java" />
-        <option value="$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FireBaseAdminListener.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/SecondActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FireBaseAdmin.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/adapters/MessagesListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/SecondActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FBObjects/Message.java" />
       </list>
     </option>
   </component>
@@ -2799,8 +2946,40 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMDM_Actividad3" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="milib" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMDM_Actividad3" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="milib" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2834,14 +3013,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragments" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MessagesListAdapter.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2851,10 +3022,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="milib" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2974,6 +3141,32 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmdmactividad2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MessagesListAdapter.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PMDM_Actividad3" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -3021,6 +3214,9 @@
     <property name="settings.editor.selected.configurable" value="instant.run" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
     <key name="android.template.packageName">
       <recent name="com.utad.sergio.pmdmactividad2" />
     </key>
@@ -3111,7 +3307,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513638654838" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513639986856" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -3159,7 +3355,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513638654838" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513639986856" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3342,7 +3538,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513638654839" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513639986857" />
       </method>
     </configuration>
     <list size="1">
@@ -3433,24 +3629,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/milib/src/main/res/layout/fragment_register.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -3512,6 +3690,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
@@ -3587,6 +3766,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
@@ -3652,6 +3832,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
@@ -3713,6 +3894,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
@@ -3770,14 +3952,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="49" lean-forward="false" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/milib/src/main/res/layout/fragment_messages_list.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -3825,7 +3999,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/DataHolder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding>
             <element signature="e#276#277#0" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />
@@ -3841,26 +4015,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
@@ -3869,7 +4023,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/milib/src/main/res/layout/msg_cell_layout.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/msg_cell_layout.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -3888,20 +4042,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/milib/src/main/java/fragments/FBObjects/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/milib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="35" column="63" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="63" lean-forward="false" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/adapters/MessagesListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="48" column="31" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/SecondActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="369">
+          <caret line="34" column="76" lean-forward="false" selection-start-line="34" selection-start-column="76" selection-end-line="34" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/milib/src/main/java/fragments/FBObjects/Message.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FBObjects/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding />
         </state>
       </provider>

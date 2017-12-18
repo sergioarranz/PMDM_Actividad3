@@ -33,15 +33,20 @@ public class MessagesListFragment extends Fragment {
         recyclerView=v.findViewById(R.id.msgList);
         recyclerView.setLayoutManager(new GridLayoutManager(getContext(),3));
 
-        ArrayList<String> mData=new ArrayList<>();
+        /*ArrayList<String> mData=new ArrayList<>();
         mData.add("MENSAJE 1");
         mData.add("MENSAJE 2");
         mData.add("MENSAJE 3");
-        mData.add("MENSAJE 4");
-        MessagesListAdapter messagesListAdapter = new MessagesListAdapter(mData);
-        recyclerView.setAdapter(messagesListAdapter);
+        mData.add("MENSAJE 4");*/
+
+        //MessagesListAdapter messagesListAdapter = new MessagesListAdapter(mData);
+        //recyclerView.setAdapter(messagesListAdapter);
 
         return v;
     }
+
+    /*public void setAdapter(RecyclerView.Adapter<RecyclerView.ViewHolder> adapter){
+        recyclerView.setAdapter(adapter);
+    }*/
 
 }
