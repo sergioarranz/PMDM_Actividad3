@@ -8,11 +8,19 @@ import android.widget.TextView;
 
 import com.utad.sergio.milib.R;
 
+import java.util.ArrayList;
+
 /**
  * Created by sergio on 18/12/17.
  */
 
 public class MessagesListAdapter extends RecyclerView.Adapter<MessagesViewHolder> {
+
+    private ArrayList<String> messages;
+
+    public MessagesListAdapter(ArrayList<String> messages){
+        this.messages=messages;
+    }
     @Override
     public MessagesViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         // Inflamos XML de la Celda
@@ -23,13 +31,13 @@ public class MessagesListAdapter extends RecyclerView.Adapter<MessagesViewHolder
 
     @Override
     public void onBindViewHolder(MessagesViewHolder holder, int position) {
-        holder.txtMsg.setText("POSICION "+position);
+        holder.txtMsg.setText(messages.get(position));
     }
 
     @Override
     public int getItemCount() {
 
-        return 5;
+        return messages.size();
     }
 }
 

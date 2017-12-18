@@ -11,6 +11,8 @@ import android.view.ViewGroup;
 
 import com.utad.sergio.milib.R;
 
+import java.util.ArrayList;
+
 /**
  * A simple {@link Fragment} subclass.
  */
@@ -30,7 +32,13 @@ public class MessagesListFragment extends Fragment {
         View v=inflater.inflate(R.layout.fragment_messages_list, container, false);
         recyclerView=v.findViewById(R.id.msgList);
         recyclerView.setLayoutManager(new GridLayoutManager(getContext(),3));
-        MessagesListAdapter messagesListAdapter = new MessagesListAdapter();
+
+        ArrayList<String> mData=new ArrayList<>();
+        mData.add("MENSAJE 1");
+        mData.add("MENSAJE 2");
+        mData.add("MENSAJE 3");
+        mData.add("MENSAJE 4");
+        MessagesListAdapter messagesListAdapter = new MessagesListAdapter(mData);
         recyclerView.setAdapter(messagesListAdapter);
 
         return v;
