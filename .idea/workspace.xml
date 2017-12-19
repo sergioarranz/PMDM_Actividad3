@@ -11,42 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96fa22db-769a-4a6a-bbda-bf3238d04a3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FBObjects/Messages.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/fragments/MessagesListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/fragments/MessagesViewHolder.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/compat/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/compat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/constraint/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/coreui/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/coreui/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/coreutils/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/coreutils/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/fragment/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/fragment/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/graphics/drawable/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/graphics/drawable/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/mediacompat/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/mediacompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/v4/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/v4/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/v7/recyclerview/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/android/support/v7/recyclerview/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$id.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$integer.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$layout.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$string.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$style.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$styleable.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/com/utad/sergio/milib/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/fragments/MessagesListFragment.class" afterPath="$PROJECT_DIR$/milib/build/intermediates/classes/debug/fragments/MessagesListFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milib/build/intermediates/intermediate-jars/debug/classes.jar" afterPath="$PROJECT_DIR$/milib/build/intermediates/intermediate-jars/debug/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FBObjects/Message.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FBObjects/Message.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/SecondActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/SecondActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/adapters/MessagesListAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/adapters/MessagesListAdapter.java" />
     </list>
@@ -75,8 +48,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -85,8 +58,8 @@
       <file leaf-file-name="SecondActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/SecondActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="53" selection-end-column="8" />
+            <state relative-caret-position="-522">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,8 +80,8 @@
       <file leaf-file-name="Message.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FBObjects/Message.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding>
                 <element signature="e#295#296#0" expanded="true" />
                 <element signature="e#333#334#0" expanded="true" />
@@ -120,8 +93,8 @@
       <file leaf-file-name="MessagesListFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="48" column="31" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="31" />
+            <state relative-caret-position="525">
+              <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -150,12 +123,12 @@
       <file leaf-file-name="MessagesListAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/adapters/MessagesListAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <state relative-caret-position="795">
+              <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -3216,7 +3189,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513641414041" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513674371241" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -3264,7 +3237,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513641414041" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513674371241" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3447,7 +3420,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513641414042" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513674371241" />
       </method>
     </configuration>
     <list size="1">
@@ -3948,30 +3921,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FireBaseAdminListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="86" lean-forward="false" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/milib/src/main/java/fragments/MessagesListFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="48" column="31" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="31" />
+        <state relative-caret-position="525">
+          <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FBObjects/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3987,30 +3957,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/adapters/MessagesListAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FBObjects/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/FireBaseAdminListener.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/adapters/MessagesListAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="86" lean-forward="false" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
-          <folding />
+        <state relative-caret-position="795">
+          <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/utad/sergio/pmdmactividad2/SecondActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="53" selection-end-column="8" />
+        <state relative-caret-position="-522">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -6,7 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.utad.sergio.milib.R;
+import com.utad.sergio.pmdmactividad2.FBObjects.Message;
+import com.utad.sergio.pmdmactividad2.R;
 
 import java.util.ArrayList;
 
@@ -16,22 +17,22 @@ import java.util.ArrayList;
 
 public class MessagesListAdapter extends RecyclerView.Adapter<MessagesViewHolder> {
 
-    private ArrayList<String> messages;
+    private ArrayList<Message> messages;
 
-    public MessagesListAdapter(ArrayList<String> messages){
+    public MessagesListAdapter(ArrayList<Message> messages){
         this.messages=messages;
     }
     @Override
     public MessagesViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         // Inflamos XML de la Celda
-        View view = LayoutInflater.from(parent.getContext()).inflate(com.utad.sergio.pmdmactividad2.R.layout.msg_cell_layout,null);
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.msg_cell_layout,null);
         MessagesViewHolder messagesViewHolder = new MessagesViewHolder(view);
         return messagesViewHolder;
     }
 
     @Override
     public void onBindViewHolder(MessagesViewHolder holder, int position) {
-        holder.txtMsg.setText(messages.get(position));
+        holder.txtMsg.setText(messages.get(position).original);
     }
 
     @Override
@@ -48,6 +49,6 @@ class MessagesViewHolder extends RecyclerView.ViewHolder {
     public MessagesViewHolder(View itemView) {
 
         super(itemView);
-        txtMsg=itemView.findViewById(com.utad.sergio.pmdmactividad2.R.id.txtMsg);
+        txtMsg=itemView.findViewById(R.id.txtMsg);
     }
 }
