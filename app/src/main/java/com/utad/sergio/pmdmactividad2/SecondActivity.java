@@ -6,17 +6,18 @@ import android.util.Log;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.GenericTypeIndicator;
+import com.utad.sergio.pmdmactividad2.FBObjects.FBCoches;
 import com.utad.sergio.pmdmactividad2.FBObjects.Message;
 import com.utad.sergio.pmdmactividad2.adapters.MessagesListAdapter;
 
 import java.util.ArrayList;
 import java.util.Map;
 
-import fragments.MessagesListFragment;
+import fragments.ListaFragment;
 
 public class SecondActivity extends AppCompatActivity {
 
-    MessagesListFragment messagesListFragment;
+    ListaFragment messagesListFragment, listaFragmentCoches;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,18 +27,12 @@ public class SecondActivity extends AppCompatActivity {
         SecondActivityEvents events = new SecondActivityEvents(this);
         DataHolder.instance.fireBaseAdmin.setListener(events);
 
-        messagesListFragment=(MessagesListFragment)getSupportFragmentManager().findFragmentById(R.id.fragmentMsgList);
+        messagesListFragment=(ListaFragment)getSupportFragmentManager().findFragmentById(R.id.fragmentMsgList);
+        listaFragmentCoches=(ListaFragment)getSupportFragmentManager().findFragmentById(R.id.fragmentListCoches);
+
         DataHolder.instance.fireBaseAdmin.GetAndObserveBranch("messages");
-        //Log.v("SecondActivity","------- EMAIL DEL USUARIO: --------"+DataHolder.instance.fireBaseAdmin.user.getEmail());
+        DataHolder.instance.fireBaseAdmin.GetAndObserveBranch("Coches");
 
-        /*ArrayList<String> mData=new ArrayList<>();
-        mData.add("MENSAJE 1");
-        mData.add("MENSAJE 2");
-        mData.add("MENSAJE 3");
-        mData.add("MENSAJE 4");
-
-        MessagesListAdapter messagesListAdapter = new MessagesListAdapter(mData);
-        messagesListFragment.recyclerView.setAdapter(messagesListAdapter);*/
     }
 }
 
@@ -51,12 +46,22 @@ class SecondActivityEvents implements FireBaseAdminListener {
     @Override
     public void fireBaseAdmin_DownloadedBranch(String branch, DataSnapshot dataSnapshot) {
         Log.v("SecondActivity", branch+" ------- "+dataSnapshot);
+        if(branch.equals("messages")){
+            GenericTypeIndicator<Map<String, Message>> indicator = new GenericTypeIndicator<Map<String, Message>>(){};
+            Map<String, Message> msgs = dataSnapshot.getValue(indicator);
+            Log.v("SecondActivity", "MENSAJES CONTIENE: "+msgs.values());
+            MessagesListAdapter messagesListAdapter = new MessagesListAdapter(new ArrayList<Message>(msgs.values()));
+            secondActivity.messagesListFragment.recyclerView.setAdapter(messagesListAdapter);
+
+        } else if (branch.equals("Coches")){
+            GenericTypeIndicator<ArrayList<FBCoches>> indicator = new GenericTypeIndicator<ArrayList<FBCoches>>(){};
+            <ArrayList<FBCoches>> coches = dataSnapshot.getValue(indicator);
+            Log.v("SecondActivity", "MENSAJES CONTIENE: "+coches);
+            MessagesListAdapter messagesListAdapter = new MessagesListAdapter(new ArrayList<Message>(msgs.values()));
+            secondActivity.messagesListFragment.recyclerView.setAdapter(messagesListAdapter);
+        }
         //Messages messages=dataSnapshot.getValue(Messages.class);
-        GenericTypeIndicator<Map<String, Message>> indicator = new GenericTypeIndicator<Map<String, Message>>(){};
-        Map<String, Message> msgs = dataSnapshot.getValue(indicator);
-        Log.v("SecondActivity", "MENSAJES CONTIENE: "+msgs.values());
-        MessagesListAdapter messagesListAdapter = new MessagesListAdapter(new ArrayList<Message>(msgs.values()));
-        secondActivity.messagesListFragment.recyclerView.setAdapter(messagesListAdapter);
+
     }
 
     @Override
